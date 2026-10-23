@@ -45185,3 +45185,93 @@
 0.0.0.0 adx.kr3.yahoo.com
 0.0.0.0 adx.gq1.yahoo.com
 0.0.0.0 adx.bf1.yahoo.com
+# Google AdMob and DoubleClick
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 admob.com
+0.0.0.0 apps.admob.com
+
+# AppLovin
+0.0.0.0 applovin.com
+0.0.0.0 applvn.com
+
+# Unity Ads
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 ads-config.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 impact.applifier.com
+
+# ironSource and Supersonic
+0.0.0.0 ironsrc.com
+0.0.0.0 is.com
+0.0.0.0 isappcloud.com
+0.0.0.0 supersonicads.com
+
+# Chartboost
+0.0.0.0 chartboost.com
+
+# Vungle and Liftoff
+0.0.0.0 vungle.com
+0.0.0.0 liftoff.io
+
+# AdColony
+0.0.0.0 adcolony.com
+
+# Mintegral
+0.0.0.0 mintegral.com
+0.0.0.0 mintegral.net
+
+# Tapjoy
+0.0.0.0 tapjoy.com
+0.0.0.0 tapjoyads.com
+
+# InMobi
+0.0.0.0 inmobi.com
+0.0.0.0 inmobicdn.net
+
+# Pangle and Rayjump
+0.0.0.0 pangle.io
+0.0.0.0 rayjump.com
+
+# Additional mobile advertising networks
+0.0.0.0 moloco.com
+0.0.0.0 moloco.net
+0.0.0.0 pubnative.net
+0.0.0.0 verve.com
+0.0.0.0 bidmachine.io
+0.0.0.0 start.io
+0.0.0.0 startapp.com
+0.0.0.0 fyber.com
+0.0.0.0 inner-active.mobi
+0.0.0.0 smaato.net
+0.0.0.0 mytarget.com
+0.0.0.0 yandexadexchange.net
+0.0.0.0 dtignite.com
+0.0.0.0 digitalturbine.com
+0.0.0.0 ogury.com
+0.0.0.0 hyprmx.com
+0.0.0.0 bigo.sg
+0.0.0.0 appodeal.com
+0.0.0.0 mobilefuse.com
+
+# General advertising exchanges
+0.0.0.0 pubmatic.com
+0.0.0.0 openx.net
+0.0.0.0 rubiconproject.com
+0.0.0.0 indexww.com
+0.0.0.0 adnxs.com
+0.0.0.0 advertising.com
+0.0.0.0 adsrvr.org
+0.0.0.0 smartadserver.com
+0.0.0.0 teads.tv
+0.0.0.0 33across.com
+0.0.0.0 casalemedia.com
+0.0.0.0 contextweb.com
+0.0.0.0 lijit.com
+0.0.0.0 criteo.com
+0.0.0.0 criteo.net
+0.0.0.0 taboola.com
+0.0.0.0 outbrain.com
